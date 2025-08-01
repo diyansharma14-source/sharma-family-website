@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Meet the Sharma Family</title>
+  <style>
+    body {
+      font-family: 'Verdana', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fdf6ec;
+      color: #333;
+    }
+
+    header {
+      background-color: #ffcc80;
+      color: #4e342e;
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    .family {
+      padding: 30px 20px;
+    }
+
+    .member {
+      background-color: #fff3e0;
+      border: 1px solid #ffe0b2;
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 600px;
+      border-radius: 12px;
+      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .thankyou {
+      background-color: #ffe0b2;
+      padding: 30px 20px;
+      text-align: center;
+    }
+
+    footer {
+      background-color: #ffcc80;
+      text-align: center;
+      padding: 15px;
+      color: #4e342e;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to the Sharma Family Website</h1>
+    <p>A little introduction to the wonderful people in our family 💖</p>
+  </header>
+
+  <section class="family">
+    <div class="member">
+      <h2>👨 Dad – Nileshkumar Sharma</h2>
+      <p>Age: 45</p>
+      <p>Birthday: 26 April</p>
+      <p>He works at a restaurant and takes care of us with love and strength. He is hardworking, calm, and always supportive.</p>
+    </div>
+
+    <div class="member">
+      <h2>👩 Mom – Varshaben Sharma</h2>
+      <p>Age: 42</p>
+      <p>Birthday: 11 November</p>
+      <p>She works in a company and is the heart of our home. She balances work and family with grace and brings joy everywhere she goes.</p>
+    </div>
+
+    <div class="member">
+      <h2>👦 Brother – Krrish Sharma</h2>
+      <p>Age: 19</p>
+      <p>Birthday: 18 December</p>
+      <p>He works at a supermarket. He is fun, energetic, and always ready to help. He makes our home lively and full of laughter.</p>
+    </div>
+
+    <div class="member">
+      <h2>👧 Me – Diya Sharma</h2>
+      <p>Age: 14</p>
+      <p>Birthday: 14 September</p>
+      <p>I'm currently studying and love coding, creating things, and spending time with my family. I made this website to introduce the people I love the most!</p>
+    </div>
+  </section>
+
+  <section class="thankyou">
+    <h2>Thank You for Visiting!</h2>
+    <p>With love, <strong>The Sharma Family ❤️</strong></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Diya Sharma | Made with ❤️ for my family</p>
+  </footer>
+
+</body>
+</html>
+
